@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kunj-31/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kunj-31/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kunj-31/Competitive-Programming/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/kunj-31/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/kunj-31/Competitive-Programming/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kunj-31/Competitive-Programming/tree/master/0948-bag-of-tokens) |
 ## Hash Table
