@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kunj-31/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kunj-31/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kunj-31/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/kunj-31/Competitive-Programming/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/kunj-31/Competitive-Programming/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kunj-31/Competitive-Programming/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunj-31/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunj-31/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kunj-31/Competitive-Programming/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/kunj-31/Competitive-Programming/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunj-31/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
