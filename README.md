@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/kunj-31/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kunj-31/Competitive-Programming/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kunj-31/Competitive-Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kunj-31/Competitive-Programming/tree/master/0735-asteroid-collision) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kunj-31/Competitive-Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
