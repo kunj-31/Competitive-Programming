@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kunj-31/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kunj-31/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kunj-31/Competitive-Programming/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/kunj-31/Competitive-Programming/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/kunj-31/Competitive-Programming/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kunj-31/Competitive-Programming/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunj-31/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kunj-31/Competitive-Programming/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/kunj-31/Competitive-Programming/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/kunj-31/Competitive-Programming/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
