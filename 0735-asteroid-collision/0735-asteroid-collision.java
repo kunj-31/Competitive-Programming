@@ -10,7 +10,7 @@ class Solution {
                     stack.pop(); 
                     continue;
                 } else if (stack.peek() == Math.abs(ast)) {
-                    stack.pop(); 
+                    stack.pop();
                 }
                 destroyed = ast < 0;
                 break;
