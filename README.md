@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kunj-31/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kunj-31/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kunj-31/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/kunj-31/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/kunj-31/Competitive-Programming/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kunj-31/Competitive-Programming/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/kunj-31/Competitive-Programming/tree/master/0881-boats-to-save-people) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/kunj-31/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kunj-31/Competitive-Programming/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunj-31/Competitive-Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/kunj-31/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
