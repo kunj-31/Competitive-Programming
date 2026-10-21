@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kunj-31/Competitive-Programming/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunj-31/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/kunj-31/Competitive-Programming/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/kunj-31/Competitive-Programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kunj-31/Competitive-Programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kunj-31/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kunj-31/Competitive-Programming/tree/master/0455-assign-cookies) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/kunj-31/Competitive-Programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kunj-31/Competitive-Programming/tree/master/0268-missing-number) |
 ## Stack
 |  |
